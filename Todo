@@ -31,8 +31,8 @@ git remote add origin https://github.com/Nahary007/crud_stage.git
 git push -u origin main
 
 
-
-
+## Cette commande associe ton projet local à ton repository distant.
+git remote add origin https://github.com/tolojanaharytsilaviniaina-netizen/Projet_V2.git
 
 https://github.com/tolojanaharytsilaviniaina-netizen/Projet_V2.git
 
