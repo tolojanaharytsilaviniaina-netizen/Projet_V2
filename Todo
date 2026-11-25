@@ -1,0 +1,41 @@
+
+## Pour connecter avec le git (pour connecter avec mon projet )
+git remote add origin https://github.com/tolojanaharytsilaviniaina-netizen/CRUD_VORONA.git
+
+
+## Entrer dans le repository 
+git clone https://github.com/Nahary007/crud_stage.git
+
+##
+cd nom-du-depot
+
+
+cd chemin/vers/votre/projet
+
+## Initialiser git
+git init
+
+## Ajouter projet 
+git add .
+
+
+## Changer branche : 
+git switch 
+git switch -c feature/x    # je crée feature/x et je passe dessus (-c = create)
+
+## Commit : enregistrement d 'une version ' 
+git commit -m "Premier commit"
+
+git branch -M main
+git remote add origin https://github.com/Nahary007/crud_stage.git
+git push -u origin main
+
+
+
+
+
+https://github.com/tolojanaharytsilaviniaina-netizen/Projet_V2.git
+
+
+
+
